@@ -1,0 +1,200 @@
+/* * {
+    outline: 1px dotted red;
+} */
+#wrapper {
+    width: 970px;
+    background-color: white;
+    margin: 0px auto;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#header-top img {
+    width: 100px;
+}
+#header-top p {
+    font-size: 42px;
+    padding: 35px 0px 0px;
+    margin: 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+#header-top p span {
+    color: rgb(10, 97, 148);
+}
+#header-bottom {
+    background-color: rgb(10, 97, 148);
+    color: white;
+    margin: -20px 0px;
+    padding: 5px 20px; 
+}
+    #header-bottom p {
+        font-size: 28px;
+        padding: 5px;
+        margin: 0px;
+    }
+#body-left {
+    width: 195px;
+    margin: 30px 0px 20px 0px;
+    padding: 20px 10px 10px;
+    display: inline-block;
+}
+    #body-left h4 {
+        margin: 2px 0px;
+        padding: 5px 0px;
+    }
+    #body-left h5 {
+        margin: 2px 0px;
+        padding: 5px 0px;
+    }
+    #body-left h4 span {
+        color: red;
+    }
+    #body-left h5 span {
+        color: rgb(10, 97, 148);
+    }
+    .blueButton {
+        background-color: blue;
+        color: white;
+        border-radius: 3px;
+        padding: 5px 43px;
+        margin: 5px auto 2px;
+        font-weight: 400;
+    }
+    .orangeButton {
+        background-color: orange;
+        color: white;
+        border-radius: 3px;
+        padding: 5px 34px;
+        margin: 5px auto 2px;
+        font-weight: 400;
+    }
+    .left-line {
+        margin: 25px auto;
+    }
+    #body-left div {
+        position: relative;
+        text-align: center;
+        color: white;  
+    }
+    .backgd{
+        display: inline-block;
+        width: 195px;
+    }
+    #body-left div p {
+        position: absolute;
+        top: 5px;
+        color: white;
+        font-size: 24px;
+    }
+    .ninja {
+        position: absolute;
+        top: 110px;
+        left: 55px; 
+        width: 75px; 
+    }
+    .lightgreenButton {
+        background-color: lightseagreen;
+        color: white;
+        border-radius: 3px;
+        padding: 5px 34px;
+        margin: 5px auto 2px;
+        font-weight: 400;
+        position: absolute;
+        top: 220px;
+        left: 10px;
+    }
+#body-right {
+    width: 730px;
+    margin: 3px 0px 20px 0px;
+    padding: 20px 10px 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+#body-right-left {
+    width: 60px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+}
+    #body-right-left img {
+        width: 20px;
+        margin: -3px 0px;
+    }
+    #body-right-left p {
+        display: inline-block;
+        color: rgb(10, 97, 148);
+    }
+#body-right-right {
+    width: 260px;
+    display: inline-block;
+    margin: 0px 0px 0px 400px;
+    padding: 0px;
+}
+    #body-right-right img {
+        width: 40px;
+        margin: 8px 10px;
+        display: inline-block;
+    }
+    #body-right-right div {
+        display: inline-block;
+        margin: 0px;
+        padding: 0px;
+        vertical-align: top;
+        text-align: right;
+    }
+    #body-right-right h5 {
+        color: black;
+        margin: 0px;
+        padding: 0px;
+        font-size: 10px;
+    }
+    #body-right-right h2 {
+        color: lightseagreen;
+        margin: 0px;
+        padding: 0px;
+        font-size: 24px;
+    }
+    .right-line {
+        margin: 15px 0px 5px;
+    }
+#body-text h3 {
+    color: rgb(10, 97, 148);
+    margin: 0px;
+    padding: 0px;
+}
+#body-text p {
+    margin: 10px 0px;
+    padding: 0px;
+}
+.color {
+    color: lightseagreen;
+}
+.bold {
+    font-weight: bold;
+    color: black;
+}
+#body-text img {
+    width: 350px;
+    margin: 0px 200px;;
+}
+#footer {
+    border-top: 5px solid blue;
+    border-left: 5px solid blue;
+    border-right: 5px solid blue;
+    padding: 15px;
+}
+#footer img {
+    width: 170px;
+    display: inline-block;
+}
+#footer div {
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px 0px 0px 10px;
+}
+#footer h3 {
+    margin: 0px;
+}
